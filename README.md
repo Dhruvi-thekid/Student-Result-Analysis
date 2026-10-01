@@ -74,7 +74,7 @@ Student-Result-Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Dhruvi-thekid/Student-Result-Analysis
 cd Student-Result-Analysis
 python -m venv .venv
 .venv\Scripts\activate
